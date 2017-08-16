@@ -1,4 +1,4 @@
-h1 {
+h3 {
     font-family: arial;
     font-size: 30px;
     color: #222;
@@ -18,7 +18,7 @@ blockquote {
      border-left: 4px solid #888;
      padding-left: 5px;
      font-size: 20px;
-     color: #477;
+     color: #222;
      max-width: 150px;
 }
 
